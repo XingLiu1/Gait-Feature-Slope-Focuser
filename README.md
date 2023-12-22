@@ -23,7 +23,7 @@ Run `Main.py` to activate the application, seamlessly integrating modules for da
 - `visualization.py`: Creates visual representations of data and results for intuitive understanding.
 
 ## Research Background
-![Various gait patterns](Figure/many gait_00.png)
+![Various gait patterns](Figure/manygait.png)
 
 **Figure 1**: Diverse gait patterns. Highlights the complexity and variability of human walking styles, emphasizing the need for adaptable detection algorithms like GFSF.
 
