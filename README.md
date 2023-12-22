@@ -1,4 +1,4 @@
-# README for Gait Event Detection Project
+# Gait Event Detection With GSFS
 
 ## Overview
 This project implements the Gait Feature Slope Focuser (GFSF) algorithm, a state-of-the-art approach for real-time gait event detection in exoskeleton robots. The methodology, detailed in "Real-time Gait Event Detection and Adaptive Algorithm Rule Design for Exoskeleton Robots," focuses on the precise identification of gait events using IMU data, employing sophisticated techniques like sliding window and first-order difference functions. This innovative approach is tailored to adapt to various gait patterns, ensuring high accuracy and reliability in robotic control.
